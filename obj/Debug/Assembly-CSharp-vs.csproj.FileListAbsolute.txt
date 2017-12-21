@@ -1,0 +1,12 @@
+X:\Garden-Siege\Temp\bin\Debug\Assembly-CSharp.dll
+X:\Garden-Siege\Temp\bin\Debug\Assembly-CSharp.pdb
+X:\Garden-Siege\Temp\bin\Debug\UnityEditor.dll
+X:\Garden-Siege\Temp\bin\Debug\UnityEngine.dll
+X:\Garden-Siege\Temp\bin\Debug\UnityEngine.UI.dll
+X:\Garden-Siege\Temp\bin\Debug\Mono.Cecil.dll
+X:\Garden-Siege\Temp\bin\Debug\nunit.framework.dll
+X:\Garden-Siege\Temp\bin\Debug\Unity.DataContract.dll
+X:\Garden-Siege\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+X:\Garden-Siege\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+X:\Garden-Siege\obj\Debug\Assembly-CSharp.dll
+X:\Garden-Siege\obj\Debug\Assembly-CSharp.pdb
