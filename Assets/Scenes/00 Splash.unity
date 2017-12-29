@@ -397,7 +397,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: .25
+  m_Volume: .5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -662,6 +662,10 @@ Prefab:
     - target: {fileID: 483136, guid: 1d89e64f2abe7a74d8f6102ad7d930db, type: 2}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11483136, guid: 1d89e64f2abe7a74d8f6102ad7d930db, type: 2}
+      propertyPath: autoLoadNextLevelAfter
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1d89e64f2abe7a74d8f6102ad7d930db, type: 2}
